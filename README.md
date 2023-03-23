@@ -12,9 +12,9 @@
 
 ## 交流共享
 
-【1】感兴趣的可以加我微信，我拉你进 ChatGPT 交流群（备注 chatgpt 进群）。
+【1】感兴趣的可以加我微信，我拉你进 ChatGPT 交流群（备注 chatgpt 进群）目前群已经超过200人了，需要加我，我来邀请你。
 
-![](images/chatgpt/weixin.png)
+<img src="images/chatgpt/weixin-00.png" style="zoom:50%;" />
 
 ## 2、ChatGPT 免费镜像站点
 > 由于访问 ChatGPT 需要开启魔法，并注册好账号，如果你没有魔法，也没有账号，也想玩 ChatGPT，就可以直接访问下面的网址。
