@@ -13,6 +13,7 @@
 
 
 ## 2、ChatGPT 免费镜像站点
+> 由于访问 ChatGPT 需要开启魔法，并注册好账号，如果你没有魔法，也没有账号，也想玩 ChatGPT，就可以直接访问下面的网址。
 
 1. https://freegpt.one/
 
@@ -129,7 +130,17 @@ PS：开启魔法，全局代理，节点选美国。
 
 
 
+## 6、其它工具
 
+### 6.1 自动编码工具 Cursor
+
+> 这是一款与OpenAI合作并且基于GPT4的新一代辅助编程神器。
+
+[Cursor 保姆级使用教程](https://mp.weixin.qq.com/s?__biz=MzUwOTQwNTUzNQ==&mid=2247489976&idx=1&sn=381061a5d739d290f7379d38d7a40807&chksm=f913e988ce64609e17c36b217a07cbd1057b51c81b614c7fc64ab15d814f0eb7473fb00035db&token=1838004954&lang=zh_CN#rd)
+
+![](images/cursor/cursor-00-11.gif)
+
+![](images/cursor/cursor-00-10.png)
 
 
 
