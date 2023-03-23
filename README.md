@@ -1,5 +1,13 @@
 ## 1、ChatGPT 注册教程
 
+### 1.1 如何注册 ChatGPT?
+
+[ChatGPT注册流程](chatgpt/ChatGPT注册流程.md)
+
+### 1.2 ChatGPT 注册遇到问题
+
+[ChatGPT注册遇到的问题解决办法](chatgpt/ChatGPT注册遇到的问题.md)
+
 
 
 
@@ -60,7 +68,45 @@ https://yiyan.baidu.com/welcome
 
 
 
-### 3.2 相关论文
+### 3.2 开放 API
+
+①、[ERNIE 3.0 文本理解与创作](https://wenxin.baidu.com/ernie3)
+
+②、[ERNIE VILG AI 作画](https://wenxin.baidu.com/ernie-vilg)
+
+
+
+### 3.2 相关资料
+
+①、官方网站
+
+[文心大模型](https://wenxin.baidu.com/)
+
+②、PDF 资料
+
+[文心一言测试指引.pdf](pdf/文心一言/文心一言测试指引.pdf)  
+
+[华泰证券：文心一言：技术与能力拆解.pdf](pdf/文心一言/华泰证券：文心一言：技术与能力拆解.pdf)  
+
+[华西证券：百度文心一言畅想.pdf](pdf/文心一言/华西证券：百度文心一言畅想.pdf)  
+
+[开源证券：百度文心一言展望.pdf](pdf/文心一言/开源证券：百度文心一言展望.pdf)  
+
+[首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf](pdf/文心一言/首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf)  
+
+[ChatGPT系列—百度文心一言解读20230315.pdf](pdf/文心一言/ChatGPT系列—百度文心一言解读20230315.pdf)  
+
+
+
+## 4、微软 Bing
+
+### 4.1 申请方法
+
+申请网址:bing.com/new
+
+PS：开启魔法，节点选美国
+
+![](images/bing/bing-00-00.png)
 
 
 
@@ -69,6 +115,16 @@ https://yiyan.baidu.com/welcome
 
 
 
+
+## 5、谷歌 Bard
+
+### 5.1 申请方法
+
+申请地址：https://bard.google.com/
+
+PS：开启魔法，全局代理，节点选美国。
+
+![](images/bard/bard-00-01.png)
 
 
 
