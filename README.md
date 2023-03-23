@@ -10,7 +10,11 @@
 
 
 
+## 交流共享
 
+【1】感兴趣的可以加我微信，我拉你进 ChatGPT 交流群（备注 chatgpt 进群）。
+
+![](images/chatgpt/weixin.png)
 
 ## 2、ChatGPT 免费镜像站点
 > 由于访问 ChatGPT 需要开启魔法，并注册好账号，如果你没有魔法，也没有账号，也想玩 ChatGPT，就可以直接访问下面的网址。
@@ -45,11 +49,45 @@ PS：以上镜像网站都来源于网络，测试是免费可用的，如果有
 
 
 
+## 3、ChatGPT 使用和调教
+
+### 3.1 调教
+
+[ChatGPT中文调教指南.pdf](./pdf/chatgpt/chatgpt中文调教指南.pdf)
+
+[ChatGPT英文调教指南](https://github.com/f/awesome-chatgpt-prompts)
 
 
-## 3、文心一言
 
-### 3.1 申请方法
+### 3.2 插件
+
+①、Prompt 插件
+
+> 不用你去想关键字，直接给你写好了，提问即可，解决很多用户不会提问的问题，目前是开源免费的，不过只有英文版，我这里为了便于大家理解，翻译成中文了。
+
+[下载地址](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=zh-CN)
+
+
+
+![](images/chatgpt/plug/AIPRM-00.png)
+
+
+
+②、ChatGPT 桌面客户端
+
+> 桌面客户端，支持 Windows、Mac、Linux
+
+[下载地址](https://github.com/lencx/ChatGPT)
+
+![](images/chatgpt/plug/chatgpt-client-00.png)
+
+
+
+
+
+## 4、文心一言
+
+### 4.1 申请方法
 
 ①、企业申请
 
@@ -69,7 +107,7 @@ https://yiyan.baidu.com/welcome
 
 
 
-### 3.2 开放 API
+### 4.2 开放 API
 
 ①、[ERNIE 3.0 文本理解与创作](https://wenxin.baidu.com/ernie3)
 
@@ -77,7 +115,7 @@ https://yiyan.baidu.com/welcome
 
 
 
-### 3.2 相关资料
+### 4.3 相关资料
 
 ①、官方网站
 
@@ -99,10 +137,9 @@ https://yiyan.baidu.com/welcome
 
 
 
+## 5、微软 Bing
 
-## 4、微软 Bing
-
-### 4.1 申请方法
+### 5.1 申请方法
 
 申请网址:https://bing.com/new
 
@@ -118,9 +155,9 @@ PS：开启魔法，节点选美国
 
 
 
-## 5、谷歌 Bard
+## 6、谷歌 Bard
 
-### 5.1 申请方法
+### 6.1 申请方法
 
 申请地址：https://bard.google.com/
 
@@ -130,9 +167,9 @@ PS：开启魔法，全局代理，节点选美国。
 
 
 
-## 6、其它工具
+## 7、其它工具
 
-### 6.1 自动编码工具 Cursor
+### 7.1 自动编码工具 Cursor
 
 > 这是一款与OpenAI合作并且基于GPT4的新一代辅助编程神器。
 
@@ -157,3 +194,10 @@ PS：开启魔法，全局代理，节点选美国。
 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
 【Sparrow】[Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)  
 【LaMda】[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)  
+
+
+
+# ⚠️声明
+
+以上资料部分来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
+vx: ItCoke
