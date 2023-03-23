@@ -26,7 +26,7 @@
 
 这时候，可能很多人要问了，这个东西到底该怎么用呢？
 
-我在12月份写了一篇关于[如何注册 ChatGPT](https://mp.weixin.qq.com/s?__biz=MzUwOTQwNTUzNQ==&mid=2247489180&idx=1&sn=f7725bc18bd8cfebeead65b7191fedb3&chksm=f913e6acce646fba9311dfea04dfcf70c91bdddd84c55d653d95cf36fe0123d4db92d2f41d56&token=529687181&lang=zh_CN#rd) 的文章，可能文章介绍的不是太详细，然后发布以后，有很多同学问我各种注册遇到的问题，那么本篇文章也给大家总结一下，注册 ChatGPT 遇到的各种问题。
+我在12月份写了一篇关于[如何注册 ChatGPT](ChatGPT注册流程.md) 的文章，可能文章介绍的不是太详细，然后发布以后，有很多同学问我各种注册遇到的问题，那么本篇文章也给大家总结一下，注册 ChatGPT 遇到的各种问题。
 
 ## 0、前言
 
