@@ -84,7 +84,7 @@ https://yiyan.baidu.com/welcome
 
 ②、PDF 资料
 
-[文心一言测试指引.pdf](pdf/文心一言/文心一言测试指引.pdf)  
+[文心一言测试指引.pdf](./pdf/文心一言/文心一言测试指引.pdf)  
 
 [华泰证券：文心一言：技术与能力拆解.pdf](./pdf/文心一言/华泰证券：文心一言：技术与能力拆解.pdf)  
 
@@ -103,7 +103,7 @@ https://yiyan.baidu.com/welcome
 
 ### 4.1 申请方法
 
-申请网址:bing.com/new
+申请网址:https://bing.com/new
 
 PS：开启魔法，节点选美国
 
