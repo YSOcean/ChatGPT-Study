@@ -181,6 +181,16 @@ PS：开启魔法，全局代理，节点选美国。
 
 
 
+### 7.2 检测内容是否由人工智能生财 AIGC-X
+
+> AIGC-X尝试采用算法融合与知识驱动的人工智能框架，使用深度建模来捕捉困惑度、突现频次等隐式特征，学习得到机器生成文本与人工生成文本的分布差异。
+>
+> http://ai.sklccc.com/AIGC-X/#/
+
+![](images/aigcx/aigcx-00-01.png)
+
+
+
 ## 相关论文
 
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
