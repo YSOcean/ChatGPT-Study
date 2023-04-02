@@ -191,6 +191,14 @@ PS：开启魔法，全局代理，节点选美国。
 
 
 
+### 7.3 模糊照片修复
+
+> https://www.restorephotos.io/restore
+
+![](images/photosrestore/ps-00-01.png)
+
+
+
 ## 相关论文
 
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
